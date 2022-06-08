@@ -1,0 +1,19 @@
+.mb-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3rem 0;
+}
+
+.form-control{
+    width:40rem;
+    border-bottom-right-radius:0 ;
+    border-top-right-radius: 0;
+}
+
+.btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
