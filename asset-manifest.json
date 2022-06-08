@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internship_challenge_2/static/css/main.32de23e8.css",
+    "main.js": "/internship_challenge_2/static/js/main.f5292a1a.js",
+    "index.html": "/internship_challenge_2/index.html",
+    "main.32de23e8.css.map": "/internship_challenge_2/static/css/main.32de23e8.css.map",
+    "main.f5292a1a.js.map": "/internship_challenge_2/static/js/main.f5292a1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32de23e8.css",
+    "static/js/main.f5292a1a.js"
+  ]
+}
